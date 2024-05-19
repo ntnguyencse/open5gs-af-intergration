@@ -34,7 +34,7 @@
     "prop-types": "^15.8.1",
     "react": "^15.7.0",
     "react-dom": "^15.7.0",
-    "react-event-listener": "^0.5.9",
+    "react-event-listener": "^0.6.6",
     "react-icons": "^2.2.5",
     "react-jsonschema-form": "^0.50.1",
     "react-notification-system": "^0.4.0",
